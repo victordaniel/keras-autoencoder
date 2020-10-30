@@ -1,4 +1,4 @@
-
+#https://www.tensorflow.org/guide/keras/functional
 
 import keras  # ML library. Built on top of Tensor flow
 from keras.layers import Input, Dense
